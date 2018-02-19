@@ -1,0 +1,9 @@
+vendor/
+build/
+phpunit.xml
+phpcs.xml
+composer.lock
+.buildpath
+.project
+.idea
+.phpcs-cache
